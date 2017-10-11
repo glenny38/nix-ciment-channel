@@ -26,7 +26,7 @@
 | SedFoam                | TODO     |                         | https://github.com/SedFoam/sedfoam |
 | Intel 2017             | WIP      | Bruno Bzeznik           |  https://github.com/Gricad/nix-ciment-channel/tree/intel |
 | NCL                    | TODO     |                         |  http://www.ncl.ucar.edu/current_release.shtml (opendap) |
-| Obspy                  | TODO     |                         | https://github.com/obspy/obspy/wiki |
+| Obspy                  | WIP      | Glenn Cougoulat         | https://github.com/obspy/obspy/wiki |
 | Grads                  | TODO     |                         | http://cola.gmu.edu/grads/ |
 | Biogeme/PythonBiogeme  | TODO     |                         | http://biogeme.epfl.ch/install.html |
 | R-open                 | TODO     |                         | https://mran.revolutionanalytics.com/rro/ |
